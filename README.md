@@ -9,3 +9,5 @@ This thesis builds a mixed-reality platform to assist the coordination of squads
 ![](https://github.com/ImmersiveAnalyticsUNCC/Mixed-reality-squad-coordination-platform/blob/master/images/wim-01.jpg)
 
 Publication: Elias Mahfoud, Mixed-reality squad-coordination platform, Master Thesis, UNC Charlotte, Dec. 2016.
+
+[https://www.youtube.com/watch?v=tn6dlFz41o4&list=PLI1sj6AcDrkDFhBdjeuP9tj5kTNbAavgw](video)
