@@ -4,10 +4,14 @@ Coordination and situation awareness are amongst the most important aspects of c
 
 This thesis builds a mixed-reality platform to assist the coordination of squads when performing tasks in real time. The platform provides tools to deliver visualization and heads up display (HUD) information to squad members, as well as reporting tools that allow squad members to coordinate with each other and their command center. The platform uses mixed reality devices (Microsoft HoloLens devices in this case) to synchronize member locations and other vital information across the team. Such a system allows dispatchers to efficiently exchange useful visual information, such as targets and paths, with field units. The example results demonstrate that this type of direct visual communication has many advantages over simply relying on voice communication and hand-held devices.
 
-![](https://github.com/ImmersiveAnalyticsUNCC/Mixed-reality-squad-coordination-platform/blob/master/images/create-paths-01.jpg)
-![](https://github.com/ImmersiveAnalyticsUNCC/Mixed-reality-squad-coordination-platform/blob/master/images/create-targets-01.jpg)
-![](https://github.com/ImmersiveAnalyticsUNCC/Mixed-reality-squad-coordination-platform/blob/master/images/wim-01.jpg)
+<p align="center">
+  <img height="200" src="https://github.com/ImmersiveAnalyticsUNCC/Mixed-reality-squad-coordination-platform/blob/master/images/create-paths-01.jpg">
+  <img height="200" src="https://github.com/ImmersiveAnalyticsUNCC/Mixed-reality-squad-coordination-platform/blob/master/images/create-targets-01.jpg">
+  <img height="200" src="https://github.com/ImmersiveAnalyticsUNCC/Mixed-reality-squad-coordination-platform/blob/master/images/wim-01.jpg">
+</p>
 
-Publication: Elias Mahfoud, Mixed-reality squad-coordination platform, Master Thesis, UNC Charlotte, Dec. 2016.
+## Publication 
+
+Elias Mahfoud, Mixed-reality squad-coordination platform, Master Thesis, UNC Charlotte, Dec. 2016.
 
 [https://www.youtube.com/watch?v=tn6dlFz41o4&list=PLI1sj6AcDrkDFhBdjeuP9tj5kTNbAavgw](video)
